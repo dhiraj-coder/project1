@@ -1,0 +1,24 @@
+{
+  "name": "project1",
+  "version": "1.0.0",
+  "description": "\"Project to learn Node JS features",
+  "main": "index.html",
+  "scripts": {
+    "start" : "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dhiraj-coder/project1.git"
+  },
+  "author": "Dhiraj Patil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dhiraj-coder/project1/issues"
+  },
+  "homepage": "https://github.com/dhiraj-coder/project1#readme",
+  "dependencies": {
+    "lite-server": "^2.4.0"
+  }
+}
