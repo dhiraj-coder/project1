@@ -4,7 +4,7 @@
   "description": "\"Project to learn Node JS features",
   "main": "index.html",
   "scripts": {
-    "start" : "npm run lite",
+    "start": "npm run lite",
     "test": "echo \"Error: no test specified\" && exit 1",
     "lite": "lite-server"
   },
@@ -19,6 +19,9 @@
   },
   "homepage": "https://github.com/dhiraj-coder/project1#readme",
   "dependencies": {
-    "lite-server": "^2.4.0"
+    "bootstrap": "^4.0.0",
+    "jquery": "^1.9.1",
+    "lite-server": "^2.4.0",
+    "popper.js": "^1.12.9"
   }
 }
